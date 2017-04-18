@@ -10,34 +10,34 @@
 #include <unistd.h>
 
 /**********************************beauty**************/
-	int oq (){ /* Função meramente estética */
+int oq (){ /* Função meramente estética */
 
 	system ("clear");       
 
-		usleep(100000); 	printf("     ?????????????\n");
-		usleep(100000);		printf("    ???         ???\n");
-		usleep(100000);		printf("   ???           ???\n");
-		usleep(100000);		printf("  ???             ???\n");
-		usleep(100000);		printf("   ??             ???\n");
-		usleep(100000);		printf("                 ???\n");
-		usleep(100000);		printf("                ???\n");
-		usleep(100000);		printf("               ???\n");
-		usleep(100000);		printf("              ???\n");
-		usleep(100000);		printf("             ???\n");
-		usleep(100000);		printf("            ???\n");
-		usleep(100000);		printf("            ???\n");
-		usleep(100000);		printf("            ???\n");
-		usleep(100000);		printf("            ???\n");
-		usleep(100000);		printf(" \n");
-		usleep(100000);		printf("            ???\n");
-		usleep(100000);		printf("            ???\n");
+	usleep(100000); 	printf("     ?????????????\n");
+	usleep(100000);		printf("    ???         ???\n");
+	usleep(100000);		printf("   ???           ???\n");
+	usleep(100000);		printf("  ???             ???\n");
+	usleep(100000);		printf("   ??             ???\n");
+	usleep(100000);		printf("                 ???\n");
+	usleep(100000);		printf("                ???\n");
+	usleep(100000);		printf("               ???\n");
+	usleep(100000);		printf("              ???\n");
+	usleep(100000);		printf("             ???\n");
+	usleep(100000);		printf("            ???\n");
+	usleep(100000);		printf("            ???\n");
+	usleep(100000);		printf("            ???\n");
+	usleep(100000);		printf("            ???\n");
+	usleep(100000);		printf(" \n");
+	usleep(100000);		printf("            ???\n");
+	usleep(100000);		printf("            ???\n");
 
-		sleep (2);
+	sleep (2);
 
 	system ("clear");
 
-	return 0;
-	}
+return 0;
+}
 
 
 int main () { 
