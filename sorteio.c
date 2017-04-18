@@ -12,7 +12,7 @@
 /**********************************beauty**************/
 	int oq (){ /* Função meramente estética */
 
-	system ("clear");    
+	system ("clear");       
 
 		usleep(100000); 	printf("     ?????????????\n");
 		usleep(100000);		printf("    ???         ???\n");
