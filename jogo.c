@@ -1,10 +1,6 @@
-/* Kelson André Venâncio Teixeira
-* Matrícula: 16/0130085
-*Matéria: Algoritmos e Programação de computadores
-*Professor: 
-*Turma: 
-* ARROZ E PROGRAMAÇÃO DE COMPUTADORES*/
-
+/*Kelson Teixeira
+*Estudante de Engenharia Mecatrônica - UnB (Universidade de Brasília)
+*Programa com propósito de gerar um número aleatório para sorteios*/
 
 
 #include <stdio.h>
