@@ -1,6 +1,6 @@
 /*Kelson Teixeira
 *Estudante de Engenharia Mecatrônica - UnB (Universidade de Brasília)
-*Programa com propósito de gerar um número aleatório para sorteios*/
+*Jogo desenvolvido para a aula de APC (Algoritmos e Programação de Computadores)*/
 
 
 #include <stdio.h>
