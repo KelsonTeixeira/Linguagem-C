@@ -1,11 +1,6 @@
-/*Universidade de Brasília - UnB
- *Kelson Teixeira
- *Engenharia Mecatrônia
- *Matr.: 16/0130085
- *Trab.: 
- *APC - Algoritmo e Programação de Computadores
- *Professor: Francisco de Assis Cartaxo Pinheiro
- */
+/*Kelson Teixeira
+*Estudante de Engenharia Mecatrônica - UnB (Universidade de Brasília)
+*Programa com propósito de gerar um número aleatório para sorteios*/
 
 
 #include <stdio.h>
